@@ -1,0 +1,16 @@
+-- [[ Grants ðŸ‘‘ Emoji, Admin Commands over Premium Users. ]]
+
+local id = {
+  2311902400, -- ezzay
+  114080011, -- bugged, da hood admin or something idk sorry
+  1736738991, -- Musc3lar, kristina's alt
+  555710383, -- SwagminStaz
+  3183682901, -- breakvelocity // machport
+  2758727407, -- SwagminPeter // Senpai
+  170526279, -- Mason's alt
+  3490816480, -- dtbrespect
+  1928021622, -- Tear // Buy Premium LOL
+  248174020, --// Whiphasiri aka Tear
+}
+
+return id;
